@@ -1,0 +1,21 @@
+A-153C/b-5 sector 4 pocket 5 camp 2 kh 310 ,410,500 FLOOR GOVINDPURI KALKAJI NEW DELHI 110019
+
+Address being parsed: A-153C/b-5 sector 4 pocket 5 camp 2 kh 310 ,410,500 FLOOR GOVINDPURI KALKAJI NEW DELHI 110019\n
+\nParsed Information:
+\n- Plot No: N/A
+\n- Floor: FLOOR
+\n- Khasra No: 310,410,500
+\n- Sector: 4\n- Area: GOVINDPURI KALKAJI
+\n- City: NEW DELHI
+\n- Block No: N/A
+
+\n
+
+\nConverted to Uppercase:
+\n- PLOT NO: N/A
+\n- FLOOR: FLOOR
+\n- KHASRA NO: 310,410,500
+\n- SECTOR: 4
+\n- AREA: GOVINDPURI KALKAJI
+\n- CITY: NEW DELHI
+\n- BLOCK NO: N/A
